@@ -39,7 +39,7 @@ CIFAR-10 dataset contains:
 
 🛠️ Installation
 Clone this repository:
-git clone https://github.com/YourUsername/CIFAR10_IMAGE_CLASSIFICATION.git
+git clone (https://github.com/nesringamal/CIFAR10_IMAGE_CLASSIFICATION)
 cd CIFAR10_IMAGE_CLASSIFICATION
 
 Create and activate a virtual environment:
