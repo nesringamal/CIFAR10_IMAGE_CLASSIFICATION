@@ -1,4 +1,4 @@
-@"👕 CIFAR-10 Image Classification Project
+👕 CIFAR-10 Image Classification Project
 This project uses deep learning models to classify images from the CIFAR-10 dataset.
 The dataset consists of 60,000 color images in 10 classes, with 6,000 images per class (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
 
